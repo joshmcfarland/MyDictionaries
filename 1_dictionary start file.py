@@ -6,7 +6,7 @@ phonebook = {'Chris':'555−1111',
              'Katie':'555−2222',
              'Joanne':'555−3333'}
 
-"""
+
 
 print()
 print('*****  start section 1 - print dictionary ********')
@@ -124,7 +124,6 @@ print()
 
 
 
-
 print()
 print('*****  start section 7 - iterate through both key and value pair********')
 print()
@@ -201,7 +200,7 @@ print()
 
 
 
-"""
+
 
 
 
